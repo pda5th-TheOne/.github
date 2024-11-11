@@ -72,7 +72,7 @@
 
 ## 🗂 Architecture
 
-![architecture](./archit.png)
+![architecture](./images/archit.png)
 
 ## 📅 회고 및 개선 사항
 - **트러블 슈팅**: JWT 인증 시 사용자 정보 검증 문제를 해결하기 위해 `/api/auth/validate-token` 엔드포인트 추가
