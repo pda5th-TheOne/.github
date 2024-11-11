@@ -59,6 +59,10 @@
 - **Docker Hub**: 컨테이너 이미지 관리
 - **GitHub Actions**: CI/CD 자동화
 
+## 🗂 Architecture
+![architecture](./images/archit.png)
+
+
 ## 🗂 ERD & API 명세서
 - **ERD**: [ERD Diagram 보기](https://www.erdcloud.com/d/H37rrz8FdMHoPprRi)
 ![erd](./images/erd.png)
@@ -70,9 +74,6 @@
 ![swagger2](./images/swagger2.png)
 ![swagger3](./images/swagger3.png)
 
-## 🗂 Architecture
-
-![architecture](./images/archit.png)
 
 ## 📅 회고 및 개선 사항
 - **트러블 슈팅**: JWT 인증 시 사용자 정보 검증 문제를 해결하기 위해 `/api/auth/validate-token` 엔드포인트 추가
