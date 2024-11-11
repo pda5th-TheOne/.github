@@ -61,18 +61,18 @@
 
 ## 🗂 ERD & API 명세서
 - **ERD**: [ERD Diagram 보기](https://www.erdcloud.com/d/H37rrz8FdMHoPprRi)
-![erd](<스크린샷 2024-11-11 오후 1.23.21.png>)
+![erd](./images/erd.png)
 
 --- 
 
 - **API 명세서**: [Swagger UI](http://43.203.139.109:8080/swagger-ui/index.html#/)
-![swagger1](<스크린샷 2024-11-11 오후 1.31.14.png>)
-![swagger2](<스크린샷 2024-11-11 오후 1.31.28.png>)
-![swagger3](<스크린샷 2024-11-11 오후 1.31.42.png>)
+![swagger1](./images/swagger1.png)
+![swagger2](./images/swagger2.png)
+![swagger3](./images/swagger3.png)
 
 ## 🗂 Architecture
 
-![architecture](<스크린샷 2024-11-11 오후 1.33.35.png>)
+![architecture](./archit.png)
 
 ## 📅 회고 및 개선 사항
 - **트러블 슈팅**: JWT 인증 시 사용자 정보 검증 문제를 해결하기 위해 `/api/auth/validate-token` 엔드포인트 추가
